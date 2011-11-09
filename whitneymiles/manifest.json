@@ -1,0 +1,16 @@
+{
+   "name": "whitneymiles",
+   "version": "1.0",
+   "theme": {
+      "colors": {
+         "frame": [ 255, 102, 51 ],
+		 "ntp_link": [ 255, 102, 51 ],
+         "ntp_text": [ 255, 102, 51 ],
+         "toolbar": [ 255, 102, 51 ]
+      },
+      "images": {
+         "theme_frame": "images/frame.png",
+         "theme_ntp_background": "images/ntp_background.png"
+      }
+   }
+}
